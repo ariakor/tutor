@@ -5,7 +5,7 @@
 В настоящее время идет добавление функционала автоматизации создания чеков в ФНС. 
 
 Схема системы:
-![Screen](https://github.com/ariakor/tutor/blob/a3c151b76efddee11a18522f732f4f81f2800c66/img/Frame1.jpg)
+![Screen](https://github.com/ariakor/tutor/blob/b38a6b55f31690f655be4c5872b6bd34ceeb2f32/img/Untitled%20-%20Frame%203.jpg)
 ![Screen](https://github.com/ariakor/tutor/blob/a3c151b76efddee11a18522f732f4f81f2800c66/img/Frame2.jpg)
 
 
